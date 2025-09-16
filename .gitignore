@@ -94,7 +94,8 @@ tmp/
 temp/
 
 # Editor directories and files
-.vscode/
+# Note: .vscode/ is included in this dotfiles repo for template purposes
+# but should be excluded in actual projects
 .idea/
 *.swp
 *.swo
